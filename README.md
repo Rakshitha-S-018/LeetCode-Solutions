@@ -7,6 +7,7 @@ DSA and LeetCode problem solutions for placement preparation.
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2235-add-two-integers](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/2235-add-two-integers) |
 ## String
 |  |
