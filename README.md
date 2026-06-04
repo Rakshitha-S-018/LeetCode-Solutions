@@ -13,6 +13,7 @@ DSA and LeetCode problem solutions for placement preparation.
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2235-add-two-integers](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/2235-add-two-integers) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## String
 |  |
 | ------- |
