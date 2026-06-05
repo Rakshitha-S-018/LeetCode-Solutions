@@ -21,6 +21,7 @@ DSA and LeetCode problem solutions for placement preparation.
 | [0344-reverse-string](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 ## Simulation
 |  |
 | ------- |
@@ -38,4 +39,8 @@ DSA and LeetCode problem solutions for placement preparation.
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0344-reverse-string) |
+## Hash Table
+|  |
+| ------- |
+| [0771-jewels-and-stones](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 <!---LeetCode Topics End-->
