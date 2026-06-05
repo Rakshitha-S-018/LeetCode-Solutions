@@ -18,6 +18,7 @@ DSA and LeetCode problem solutions for placement preparation.
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
+| [0344-reverse-string](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0709-to-lower-case) |
 ## Simulation
@@ -33,4 +34,8 @@ DSA and LeetCode problem solutions for placement preparation.
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0258-add-digits) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
