@@ -19,6 +19,7 @@ DSA and LeetCode problem solutions for placement preparation.
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0709-to-lower-case) |
@@ -39,6 +40,7 @@ DSA and LeetCode problem solutions for placement preparation.
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0344-reverse-string) |
 ## Hash Table
 |  |
