@@ -13,7 +13,7 @@ class Solution:
                 if len(stack) == 0:
                     return False
 
-                top = stack.pop()
+                top = stack.pop() #make sure stack is not empty
 
                 if ch == ")" and top != "(":
                     return False
