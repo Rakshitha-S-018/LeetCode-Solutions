@@ -35,6 +35,7 @@ DSA and LeetCode problem solutions for placement preparation.
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 ## Bit Manipulation
@@ -63,6 +64,7 @@ DSA and LeetCode problem solutions for placement preparation.
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0048-rotate-image](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1480-running-sum-of-1d-array](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -76,6 +78,7 @@ DSA and LeetCode problem solutions for placement preparation.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [1672-richest-customer-wealth](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 ## Counting
