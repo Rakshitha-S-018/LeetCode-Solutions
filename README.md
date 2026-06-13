@@ -53,6 +53,7 @@ DSA and LeetCode problem solutions for placement preparation.
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0073-set-matrix-zeroes](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
@@ -60,6 +61,7 @@ DSA and LeetCode problem solutions for placement preparation.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0073-set-matrix-zeroes](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1480-running-sum-of-1d-array](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
@@ -71,6 +73,7 @@ DSA and LeetCode problem solutions for placement preparation.
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [1672-richest-customer-wealth](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 ## Counting
 |  |
