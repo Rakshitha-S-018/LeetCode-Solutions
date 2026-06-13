@@ -55,6 +55,7 @@ DSA and LeetCode problem solutions for placement preparation.
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
@@ -63,6 +64,7 @@ DSA and LeetCode problem solutions for placement preparation.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0036-valid-sudoku](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
@@ -77,6 +79,7 @@ DSA and LeetCode problem solutions for placement preparation.
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
