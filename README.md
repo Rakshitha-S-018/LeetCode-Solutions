@@ -50,6 +50,7 @@ DSA and LeetCode problem solutions for placement preparation.
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0344-reverse-string) |
 ## Hash Table
@@ -65,6 +66,7 @@ DSA and LeetCode problem solutions for placement preparation.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
