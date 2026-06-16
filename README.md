@@ -62,6 +62,7 @@ DSA and LeetCode problem solutions for placement preparation.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
@@ -78,6 +79,7 @@ DSA and LeetCode problem solutions for placement preparation.
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0169-majority-element](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0289-game-of-life](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0289-game-of-life) |
 | [1480-running-sum-of-1d-array](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
@@ -98,11 +100,13 @@ DSA and LeetCode problem solutions for placement preparation.
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [1512-number-of-good-pairs](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 ## Trie
 |  |
@@ -135,4 +139,8 @@ DSA and LeetCode problem solutions for placement preparation.
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
