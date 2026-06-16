@@ -1,5 +1,5 @@
 class Solution:
-    def majorityElement(self, n):
+    def majorityElement(self, n):#Moore's voting algorithm 
         count=0
         candidate=None
         for i in n:
