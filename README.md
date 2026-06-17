@@ -10,6 +10,7 @@ DSA and LeetCode problem solutions for placement preparation.
 | [0009-palindrome-number](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -55,6 +56,7 @@ DSA and LeetCode problem solutions for placement preparation.
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0344-reverse-string) |
 ## Hash Table
 |  |
@@ -80,6 +82,7 @@ DSA and LeetCode problem solutions for placement preparation.
 | [0088-merge-sorted-array](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0289-game-of-life](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0289-game-of-life) |
 | [1480-running-sum-of-1d-array](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
