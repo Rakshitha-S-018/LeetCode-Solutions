@@ -82,6 +82,7 @@ DSA and LeetCode problem solutions for placement preparation.
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0189-rotate-array) |
@@ -123,6 +124,7 @@ DSA and LeetCode problem solutions for placement preparation.
 | ------- |
 | [0022-generate-parentheses](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -150,4 +152,8 @@ DSA and LeetCode problem solutions for placement preparation.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
