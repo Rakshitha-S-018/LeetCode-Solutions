@@ -57,6 +57,7 @@ DSA and LeetCode problem solutions for placement preparation.
 | [0088-merge-sorted-array](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0344-reverse-string) |
 ## Hash Table
 |  |
@@ -83,6 +84,7 @@ DSA and LeetCode problem solutions for placement preparation.
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0289-game-of-life) |
 | [1480-running-sum-of-1d-array](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
