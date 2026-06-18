@@ -76,6 +76,7 @@ DSA and LeetCode problem solutions for placement preparation.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
+| [0045-jump-game-ii](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
@@ -123,6 +124,7 @@ DSA and LeetCode problem solutions for placement preparation.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Backtracking
@@ -155,5 +157,6 @@ DSA and LeetCode problem solutions for placement preparation.
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
