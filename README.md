@@ -12,6 +12,7 @@ DSA and LeetCode problem solutions for placement preparation.
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0258-add-digits) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -67,6 +68,7 @@ DSA and LeetCode problem solutions for placement preparation.
 | [0073-set-matrix-zeroes](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0771-jewels-and-stones](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 ## Array
@@ -90,6 +92,7 @@ DSA and LeetCode problem solutions for placement preparation.
 | [0274-h-index](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0289-game-of-life) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [1480-running-sum-of-1d-array](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
@@ -147,6 +150,7 @@ DSA and LeetCode problem solutions for placement preparation.
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Queue
 |  |
 | ------- |
@@ -165,4 +169,8 @@ DSA and LeetCode problem solutions for placement preparation.
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0274-h-index) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
