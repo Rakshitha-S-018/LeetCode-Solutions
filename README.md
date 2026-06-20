@@ -27,6 +27,7 @@ DSA and LeetCode problem solutions for placement preparation.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
@@ -71,6 +72,7 @@ DSA and LeetCode problem solutions for placement preparation.
 | [0001-two-sum](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0202-happy-number) |
@@ -92,6 +94,7 @@ DSA and LeetCode problem solutions for placement preparation.
 | [0036-valid-sudoku](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -133,6 +136,7 @@ DSA and LeetCode problem solutions for placement preparation.
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0242-valid-anagram) |
