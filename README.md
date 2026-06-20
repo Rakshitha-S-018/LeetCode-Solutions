@@ -8,6 +8,7 @@ DSA and LeetCode problem solutions for placement preparation.
 | ------- |
 | [0007-reverse-integer](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0189-rotate-array) |
@@ -23,6 +24,7 @@ DSA and LeetCode problem solutions for placement preparation.
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
@@ -70,6 +72,7 @@ DSA and LeetCode problem solutions for placement preparation.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0049-group-anagrams) |
