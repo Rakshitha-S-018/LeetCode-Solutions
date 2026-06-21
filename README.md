@@ -39,6 +39,7 @@ DSA and LeetCode problem solutions for placement preparation.
 | [0290-word-pattern](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
@@ -70,6 +71,7 @@ DSA and LeetCode problem solutions for placement preparation.
 | [0202-happy-number](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -157,6 +159,7 @@ DSA and LeetCode problem solutions for placement preparation.
 | [0045-jump-game-ii](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 ## Backtracking
 |  |
 | ------- |
