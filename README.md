@@ -29,6 +29,7 @@ DSA and LeetCode problem solutions for placement preparation.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0071-simplify-path) |
@@ -61,6 +62,7 @@ DSA and LeetCode problem solutions for placement preparation.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
@@ -200,4 +202,8 @@ DSA and LeetCode problem solutions for placement preparation.
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
