@@ -83,6 +83,7 @@ DSA and LeetCode problem solutions for placement preparation.
 | [0283-move-zeroes](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+| [0876-middle-of-the-linked-list](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -286,6 +287,7 @@ DSA and LeetCode problem solutions for placement preparation.
 | [0142-linked-list-cycle-ii](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0328-odd-even-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
