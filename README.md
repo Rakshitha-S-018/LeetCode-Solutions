@@ -6,6 +6,7 @@ DSA and LeetCode problem solutions for placement preparation.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
@@ -237,4 +238,12 @@ DSA and LeetCode problem solutions for placement preparation.
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
