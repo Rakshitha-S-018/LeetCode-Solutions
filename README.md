@@ -255,6 +255,7 @@ DSA and LeetCode problem solutions for placement preparation.
 | [0110-balanced-binary-tree](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -272,6 +273,7 @@ DSA and LeetCode problem solutions for placement preparation.
 | [0110-balanced-binary-tree](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -287,6 +289,7 @@ DSA and LeetCode problem solutions for placement preparation.
 | [0102-binary-tree-level-order-traversal](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0112-path-sum) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
@@ -302,6 +305,7 @@ DSA and LeetCode problem solutions for placement preparation.
 | [0110-balanced-binary-tree](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -326,6 +330,7 @@ DSA and LeetCode problem solutions for placement preparation.
 | [0086-partition-list](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0141-linked-list-cycle](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Rakshitha-S-018/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
